@@ -1,2 +1,5 @@
 # Automatic-medicine-Remainder-system-
 A on-time set alarm that reminds the users to take medications on time 
+"Automatic Medicine Reminder System" is a novel approach to the pressing problem of medication compliance. Medication non-adherence is a common issue that raises healthcare expenses and causes health problems. In order to address this issue, our project makes use of technology to develop an automated, user-friendly system that serves as a timely and effective reminder for people to take their prescribed drugs.
+The main goal of the project is to create a reliable, user-friendly system that guarantees patients' medication schedules are adhered to. Our technology is affordable and widely available due to its usage of commonly available components. The Arduino Uno (or equivalent boards), the RTC DS3231 module for accurate timekeeping, a 16x2 LCD display for information presentation, a buzzer and LED for reminders, and a user-friendly interface with push buttons are essential parts.
+
